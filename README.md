@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 # About The Project
 
-**Cadillacs and Dinosaurs** is a 3D action game built with Python and OpenGL as part of the CSE423 (Computer Graphics) course at BRAC University. Players fight through waves of enemies across multiple zones, using punches, jump attacks, and spinning kicks to survive. The game features a boss fight, collectibles, a day–night cycle with snow effects, and switchable camera modes. This project was developed as part of the CSE423(Computer Graphics) course project at BRAC University.
+**Cadillacs and Dinosaurs** is a 3D action game built with Python and OpenGL as part of the CSE423 (Computer Graphics) course at BRAC University. Players fight through waves of enemies across multiple zones, using punches, jump attacks, and spinning kicks to survive. The game features a boss fight, collectibles, a day–night cycle with snow effects, and switchable camera modes.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
